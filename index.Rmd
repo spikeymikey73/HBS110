@@ -1,9 +1,5 @@
 ---
-name: "HBS110"
 title: "Unit Schedule"
-description: "HBS110 - Health Behaviour"
-output:
-  html_document
 ---
 
 Contents of Unit Guide go here!

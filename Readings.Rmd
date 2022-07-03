@@ -1,8 +1,5 @@
 ---
 title: "Reading List"
-description: "HBS110 - Health Behaviour"
-output:
-  html_document
 ---
 
 | Title                                             | Type    | Item Link                                             
