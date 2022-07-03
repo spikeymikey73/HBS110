@@ -1,0 +1,43 @@
+name: "HBS110"
+title: "HBS110"
+description: "Health Behaviour"
+output_dir: "docs"
+navbar:
+  left:
+    - text: "HBS110"
+      menu:
+        - text: "HPS121"
+          href: https://spikeymikey73.github.io/HPS121/
+        - text: "HPS201"
+          href: https://spikeymikey73.github.io/HPS201/
+        - text: "HSH105"
+          href: https://spikeymikey73.github.io/HSH105/
+        - text: "HSH206"
+          href: https://spikeymikey73.github.io/HSH206/
+        - text: "HSH207"
+          href: https://spikeymikey73.github.io/HSH207/  
+        - text: "SIT191"
+          href: https://spikeymikey73.github.io/SIT191/
+  right:
+    - text: "Unit Guide"
+      href: index.html
+    - text: "Reading List"
+      href: Readings.html
+    - text: "Content"
+      menu:
+        - text: "Week 1"
+          href: Week1.html
+        - text: "Week 2"
+          href: Week2.html
+        - text: "Week 3"
+          href: Week3.html
+        - text: "Week 4"
+          href: Week4.html
+        - text: "Week 5"
+          href: Week5.html
+        - text: "Week 6"
+          href: Week6.html
+        - text: "Week 7"
+          href: Week7.html
+output:
+  html_document
