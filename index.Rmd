@@ -2,4 +2,16 @@
 title: "Unit Schedule"
 ---
 
-Contents of Unit Guide go here!
+| Week | Commencing | Topic                               | Assessment Due Date                                                                |
+|------|------------|-------------------------------------|------------------------------------------------------------------------------------|
+| 1    | 11 JUL 22  | What Is Health?                     | -                                                                                  |
+| 2    | 18 JUL 22  | Health Behaviour Change             | -                                                                                  |
+| 3    | 25 JUL 22  | Stress                              | AT3 (Ch 2 Quiz) Due 25 JUL 22                                             |
+| 4    | 01 AUG 22  | Addiction                           | AT3 (Ch 3 Quiz) Due 01 AUG 22                                             |
+| 5    | 08 AUG 22  | Alcohol & Tobacco                   | AT3 (Ch 4 Quiz) Due 08 AUG 22<br>AT1 Due 12 AUG 22               |
+| 6    | 22 AUG 22  | Unhealthy Eating                    | AT3 (Ch 5 Quiz) Due 22 AUG 22                                             |
+| 7    | 29 AUG 22  | Overweight & Obesity                | AT3 (Ch 6 Quiz) Due 29 AUG 22                                             |
+| 8    | 05 SEP 22  | Improving Your Physical Activity    | AT3 (Ch 7 Quiz) Due 05 SEP 22                                             |
+| 9    | 12 SEP 22  | Improving Your Sleep                | AT3 (Ch 8 Quiz) Due 12 SEP 22<br>AT2 Due 16 SEP 22               |
+| 10   | 19 SEP 22  | Infectious Diseases & Sexual Health | AT3 (Ch 9 Quiz) Due 19 SEP 22                                             |
+| 11   | 26 SEP 22  | Health Inequalities                 | AT3 (Ch 10 Quiz) Due 26 SEP 22<br>AT3 (Ch 11 Quiz) Due 03 OCT 22 |
