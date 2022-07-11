@@ -1,5 +1,5 @@
-name: HBS110
-title: HBS110 - Health Behaviour
+name: "HBS110"
+title: "HBS110 - Health Behaviour"
 output_dir: docs
 navbar:
   title: "HBS110"
