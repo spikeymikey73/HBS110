@@ -1,8 +1,4 @@
 ---
-title: 'Week 1: Health Behaviour Change'
+title: 'Week 2: Health Behaviour Change'
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
