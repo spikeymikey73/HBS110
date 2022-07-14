@@ -2,37 +2,121 @@
 title: 'Week 1: What Is Health'
 ---
 
-## What Is Health?
+## What Is Health? Changing Perspectives.
 
 ### Models of Health and Illness
 
+Health is a term that has held different meanings for different cultures, people, times in history, social classes and members of the same family. The linguistic root of the word "Health" can be loosely translated to mean "wholeness" in Anglo Saxon, suggesting an emphasis on both physical and mental aspects.
+
 #### Mind-body relationships
 
-#### Biomedical model of illness
+-   Stone Age: focus on <a href="https://www-sciencedirect-com.ezproxy-f.deakin.edu.au/topics/medicine-and-dentistry/trephination">trephination</a>, where evil spirits are given an outlet from the body by making small holes in the skull to alleviate illness.
+-   Ancient Greece: Good health is attributed to the balance of bodily fluids or "humours":
+      -   Yellow bile (summer / hot-dry)
+      -   phlegm (winter / cold-wet)
+      -   blood (spring / wet-hot)
+      -   black bile (autumn / dry-cold)
+    
+    Hippocrates considered the mind and body as one unit attributing an imbalance of the levels of humours in the body to illness.
+      
+      -   Yellow bile (choleric / angry temperament)
+      -   phlegm (calm / phlegmatic)
+      -   blood (optimistic / sanguine)
+      -   black bile (sadness / melancholic)
+      
+    Healing involved the balance of these fluids through bleeding, starvation, or diet/medicines, and the moderation of illness through balance of body and mind.
+    
+-   Ancient Rome: Galen also believed these fluids formed the basis of physical and pathological health, linking the mind and body through temperament and susceptibility to specific disease. For example: black bile $\rightarrow$ melancholic $\rightarrow$ breast cancer.
+
+-   Middle Ages: Health in this era was attributed to spirituality, with illness seen as punishment for misdeeds, or resulting from evil spirits entering the soul. Priests were perceived to be in control of people's health, rather than the individual, having the ability to drive out demons / illness.
+
+-   Renaissance: The advent of scholastic and scientific discovery driving a more sophisticated understanding of physiology with little to no exploration of psychological understanding.
+
+-   17th Century: saw the advent of <abbr title="mind and body were considered separate entities having little to no relationship with each other">dualism</abbr>. The body was viewed as a machine (investigated by physicians), with material purpose and functions that comprised of the brain, heart and cells. The mind was seen as non-material (investigated by theologians), and was comprised of thoughts and feelings, which were considered unable to be investigated and understood. Autopsy was deemed acceptable by the church as the soul had left the body after death, opening he way for anatomical research and medical understanding. This period is further characterised by the <abbr title="views of the body as a machine, with illness understood as a response to biological and physiological processes">mechanistic</abbr> viewpoint due to the growth in understanding of knowledge of cells rather than the humours.
+
+#### Biomedical model of illness (Reductionism / Dualism)
+
+-   Assumes that all illness is a result of an underlying physical cause, curable through medical intervention.
+-   Removal of the underlying cause will restore health as a result of medical intervention.
+-   Assumes that mind, body and behaviour can all be explained through cell, neural and biochemical activity.
+-   Ignores the differences of individuals in reacting to disease through the influence of personality, cognition, social support or cultural beliefs.
+-   Indigenous Australian cultures generally attribute the cause of illness as a resultof social and spiritual dysfunction (i.e. - not meeting one's obligations to society or land).
 
 #### Biopsychosocial models of health and illness
 
+-   Recognises the connection of the objective and subjective, or the relationship between underlying organic causes of disease and the individual responses determined by the mind. Examples of this connection includes such things as the placebo effect, and phantom limb pain in amputees.
+
+>biopsychsocial model $=$ biomedical \ model $+$ social, cultural \ and \ psychological \ factors
+
 #### Challenging Dualism: Psychosocial Models of Health & Illness
+
+-   The discovery and exploration of the Biopsychosocial Model weakened the Descartian theory of dualism
+-   The Biopsychosocial model reinforced the theories of Freud in his exploration of the conscious and unconscious mind concepts.
+-   Freud's theories leading to the development of psychosomatic medicine.
+-   Mind $\Leftrightarrow$ Body relationships
+-   The biopsychosocial model offers a multivariate and comprehensive model to explain illness and its effects on us.
 
 ### Wellness and the dimension of health
 
+Rene Dubos (1968) defined wellness as:
+
+> "A quality of life, involving social, emotional, mental, spiritual and biological fitness on the part of the individual, which result from adaptations to the environment"
+
+The concept of wellness later extended Dubos' definition of health and the continuum beyond the neutral point.
+
+![Dimensions of Health](insert image here!)
+
+1.    Physical
+        -   Size and shape of our bodies
+        -   Responsive and acuteness of senses
+        -   Functional through sleep and rest
+        -   Ability to heal from, manage or avoid injuries
+        -   <abbr title="fundamental skills typically needed to manage basic physical needs, comprised the following areas: grooming/personal hygiene, dressing, toileting/continence, transferring/ambulating, and eating">Activities of Daily Living (ADLs)</abbr>
+2.    Social
+        -   Maintain satisfying relationships
+        -   Successful communication
+        -   Adapting to various social situations
+        -   Ability to give/receive love
+3.    Intellectual
+        -   Think clearly
+        -   Reason objectively
+        -   Analyse critically
+        -   Effective use of brain power
+        -   Learning from mistakes and successes
+        -   Making sound decisions
+        -   Having a healthy curiosity about life
+4.    Emotional
+        -   Express or control emotions as necessary
+        -   Self esteem, trust, love, self-confidence
+5.    Spiritual
+        -   Creating/expressing meaning and purpose in life
+        -   Religious rules and customs
+        -   Being part of a system greater than the self
+        -   Value in life's experiences
+        -   Respect all living things
+6.    Environmental
+        -   Understanding the health effects of our environment
+        -   Protecting yourself from environmental hazards
+        -   Preserve / Protect / Improve our environment
+        
+Achieving an optimal level of wellbeing is subjectively relevant to the individual considering their circumstances (such as disability) and balance.
+
 ## What Influences Your Health
 
-### Individual Behaviour
+<abbr title="The range of personal, social, economic and environmental factors that influence our health">Determinants of Health<\abbr>: family habits, genetics, local amenities, local environment and societal behaviours.
 
-### Biology and Genetics
+<abbr title="Differences in the incidence, prevalence, mortality and burden of diseases and other health conditions among specific population groups">Health Disparities<\abbr>
 
-### Social Factors
+### The 5 Health Determinants
 
-#### Economic Factors
-
-#### The Built Environment
-
-#### Pollutants and Infectious Agents
-
-### Policy Making
-
-### Behaviour and Health
+-   Individual Behaviour
+-   Biology and Genetics
+-   Social Factors
+      -   Economic Factors
+      -   The Built Environment
+      -   Pollutants and Infectious Agents
+-   Policy Making
+-   Behaviour and Health
 
 ## Individual, Cultural and Lifespan Perspectives on Health
 
