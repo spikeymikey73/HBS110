@@ -103,26 +103,178 @@ Achieving an optimal level of wellbeing is subjectively relevant to the individu
 
 ## What Influences Your Health
 
-<abbr title="The range of personal, social, economic and environmental factors that influence our health">Determinants of Health<\abbr>: family habits, genetics, local amenities, local environment and societal behaviours.
+<abbr title="The range of personal, social, economic and environmental factors that influence our health">Determinants of Health</abbr>: family habits, genetics, local amenities, local environment and societal behaviours.
 
-<abbr title="Differences in the incidence, prevalence, mortality and burden of diseases and other health conditions among specific population groups">Health Disparities<\abbr>
+<abbr title="Differences in the incidence, prevalence, mortality and burden of diseases and other health conditions among specific population groups">Health Disparities</abbr>: racial or ethnic background, sex and gender, income and education, health insurance status, geographic location, sexual orientation, and disability.
 
 ### The 5 Health Determinants
 
 -   Individual Behaviour
+      +   help attain, maintain or regain good health OR undermine health and promote disease
+      +   Modifiable determinants are responsible for 7 out of 10 deaths in the U.S.
+      +   The 4 primary modifiable determinants of health responsible for chronic disease are:
+          *   Physical Activity
+          *   Nutrition
+          *   Excessive Alcohol Consumption
+          *   Tobacco use
+      +   Other modifiable behaviours impacting health and chronic disease are: use of prescription drugs, stress levels, exposure to toxic chemicals at work and at home, over the counter medications, sexual behaviours and contraceptives, sleep habits and simple infection control measures.
 -   Biology and Genetics
+      +   Biology and genetics are considered **non-modifiable determinants of health**
+      +   Include genetic diseases or predispositions to certain conditions that are linked to multiple gene variants as well as environmental factors.
+      +   **Epigenetics** is a field of study that looks at the influence our diet, physical activity and behavioural choices might have on our ability to influence genetic predispositions.
+      +   These determinants also include our age, gender, race, ethnicity, metabolic rate and body structure.
+      +   Our own histories of illness and injury.
 -   Social Factors
       -   Economic Factors
+            -   Access to quality education
+            -   Access to quality of housing / accommodation.
+            -   Ability to pay for adequate food, clothes, heat, medications, transport, counselling, etc.
       -   The Built Environment
+            -   Buildings, roads, electricity, recreation areas, telecommunications, etc.
       -   Pollutants and Infectious Agents
+            -   Air, land, food, water quality.
 -   Policy Making
+      -   Government interventions promoting community health
+            -   Vaccinations, smoking bans, bike helmets, mobile phone use hile driving.
+            -   Access to high quality, low cost healthcare (Medicare)
 -   Behaviour and Health
+      -   Advances and study of medicine and health have lead to increased longevity in Western cultures from 55 years in 1900 to 80.3 (male) and 85.2 (female) in 2014.
+      -   Indigenous Australian life expectancy is around 10 years lower, generally as a result of lifestyle and diet.
+      -   Deaths 100 years ago were primarily influenced by disease and infection, while currently are mostly attributed to lifestyle behaviours and habits.
+      -   The <abbr title="Refers to the number of new cases of a particular disease in a given period of time">incidence</abbr> of deaths through these behavioural contingencies is slowly diminishing as a result of public health campaigns and education.
+      -   The incidence of diabetes, however, has nearly doubled since 1981, growing faster than any other cause.
+      -   The <abbr title="The number of established cases of a particular disease within the population at a given time.">prevalence</abbr> of HIV/AIDS and other diseases have dropped as a result of improved diagnosis/treatment methods.
+      -   Doctors were once considered advisors to the wealthy in moderating health behaviours, as well as our "fitness to work".
+      -   The unintended harm of some Western treatments has also given rise to the popularity of alternate treatment/medicines.
 
 ## Individual, Cultural and Lifespan Perspectives on Health
 
+### Lay Theories of Health
+
+Baumann (1961) conducted a study on meaning of being healthy amongst a group of people who had been diagnosed with quite serious illness, gave three types of response:
+
+-   <abbr title="being">feeling (a general sense of wellbeing)</abbr>
+-   <abbr title="having">symptom orientation (the absence of symptoms and disease)</abbr>
+-   <abbr title="doing">performance (being able to do the things we are able to do when physically fit)</abbr>
+
+-   Our current health status influences our subjective belief of healthy:
+      -   Elderly people view their subjective health in terms of physical function and the ability to perform ADLs (doing)
+      -   Those in good health tend to express more positive indicators or about health, such as being able to exercise, or being happy) (feelings)
+      -   Those in poor health reflect on symptoms and indicators of poor health (having)
+      
+The Health & Lifestyles Survey (1993) further identified a broader range of characteristics linked to health as follows:
+
+-   Asked participants to reflect on their own health and that of someone else,
+-   A small group of young males were unable to describe what it meant to be healthy
+-   A smaller group of older women were unable to recall what it felt like to be healthy
+-   Identified the following general categories:
+      -   Health as not ill (no symptoms, no visits to the doctor)
+      -   Health as reserve (having come from a strong family, recovering quickly from illness or surgery)
+      -   Health as Physical fitness and vitality (usually applied to observations of others, young men 'feeling fit', young women 'feeling full of vitality')
+      -   Health as Psychosocial wellbeing (a person's overall mental state)
+      -   Health as function (the ability to fulfil one's normal social roles)
+      
 ### World Health Definition of Health
+
+> ‘state of complete physical, mental and social wellbeing and . . . not merely the absence of disease or infirmity’
+
+The WHO began to isolate the chronic diseases and illnesses that were increasingly causing deaths in the late 90s. While many countries' policies were shaped by the WHO, targets were not set specifically, but dialogues were beginning about looking at associated behaviours related to these diseases.
 
 ### Cross-cultural Perspectives on Health
 
+-   What is considered to be ‘normal’ (health belief systems, health attributions and health practices) varies across cultures and is a result of the economic, political and cultural climate of the era in which a person lives.
+-   The stigma associated with some illnesses in South Asian regions can effect the families social standing, or a sibling's suitability for marriage.
+-   Excessive alcohol consumption and abuse is no longer seen as a deviant behaviour, but an illness requiring treatment
+-   Smoking is no longer seen as glamorous or desirable.
+-   Western cultures tend to have allocated professionals who look after the mind, body and soul, whereas some Indigenous Australian and Eastern cultures have a more holistic view of all facets of our lives.
+-   Some sections of Indian culture view illness as punishment for past sins, having profound effect on the ability to care for these individuals and arrange appropriate treatments
+-   This <abbr title="Cultural philosophy that emphasises the individual as part of a wider unit and places emphasis on actions motivated by collective, rather than individual, needs and wants">collectivist</abbr> approach to staying healthy and avoiding illness is far different from our <abbr title="cultural philosophy that places
+responsibility at the feet of the individual; thus behaviour is often driven by individual needs and wants rather than by community needs or wants.">individualistic</abbr> approach to health (consider how long the passive smoking evidence was ignored).
+
 ### Lifespan, Ageing and Beliefs About Health and Illness
+
+#### Developmental Theories
+
+The developmental process is a function of the interaction between three factors:
+1.   Learning: a relatively permanent change in knowledge, skill or ability as a result of experience; 
+2.   Experience: what we do, see, hear, feel, think; 
+3.   Maturation: thought, behaviour or physical growth, attributed to a genetically determined sequence of development and ageing rather than to experience.
+
+Erik Erikson described eight major life stages which varied across different dimensions, including:
+
+-   cognitive and intellectual functioning
+-   language and communication skills
+-   the understanding of illness
+-   healthcare and maintenance behaviour.
+
+Individual perceptions of health or illness may differ depending on the developmental stage of the individual and their specific needs. The ability of the individual (in the case of children, for example) to have their basic needs met can also be impaired as a result of age, accident, or illness.
+
+Piaget proposed a staged structure to which, he considered, all individuals follow in sequence as below:
+
+1.   Sensorimotor (birth–2 years): an infant understands the world through sensations and movement, but lacks symbolic thought and moves from reflexive to voluntary action.
+egocentric
+2.   Pre-operational (2–7 years): symbolic thought develops by around age 2, thereafter simple logical thinking and language develop, generally <abbr title="self-centred, such as in the pre-operational stage (age 2–7 years) of children, when they see things only from their own perspective">egocentric</abbr>.
+3.   Concrete operational (7–11 years): abstract thought and logic develop hugely; can perform mental operations (e.g. mental arithmetic) and manipulate objects.
+4.   Formal operational (age 12 to adulthood): abstract thought and imagination develop as does deductive reasoning. Not everyone may attain this level.
+
+#### Sensorimotor and Pre-Operational Stage Children
+
+-   Possessing an undeveloped ability to empathise with others who are unwell
+-   Inability to understand their effect on the world around them through imitation and learning
+-   Illness and health is considered black and white (no in between)
+
+Under-7s generally explain illness on a ‘magical’ level, with explanations based on association:
+
+-   **Incomprehension**: child gives irrelevant answers or evades the question (e.g. sun causes heart attacks).
+-   **Phenomenonism**: illness is usually a sign or sound that the child has at some time associated with the illness, but with little grasp of cause and effect (e.g. a cold is when you sniff a lot).
+-   **Contagion**: illness is usually from a person or object that is close by, but not necessarily touching the child; or it can be attributed to an activity that occurred before the illness (e.g.: ‘You get measles from people’. If asked how? ‘Just by walking near them’).
+
+#### Concrete Operational Stage Children
+
+Children over 7 are described by Piaget as capable of thinking logically about objects and events, although they are still unable to distinguish between mind and body until around age 11, when adolescence begins.
+
+The concept of illness at around 8 to 11 years is more concrete and based on a causal sequence:
+
+-   **Contamination**: children at this stage understand that illness can have multiple symptoms, and they recognise that germs, or even their own behaviour, can cause illness (e.g. ‘You get a cold if you get sneezed on, and it gets into your body’).
+-   **Internalisation**: illness is within the body, and the process by which symptoms occur can be partially understood. The cause of a cold may come from outside germs that are inhaled or swallowed and then enter the bloodstream. These children can differentiate between body organs and function and can understand specific, simple information about their illness. They can also see the role of treatment and/or personal action as returning them to health.
+
+-   Medical staff are still seen as having absolute authority, but their actions might be criticised/avoided (e.g. reluctance to give blood, accusations of hurting unnecessarily, etc. may appear as children can now begin to weigh up the pros and cons of actions).
+-   Children can be encouraged to take some personal control over their illness or treatment at this stage in development which can help the child to cope.
+-   They also need to be encouraged to express their fears.
+-   Parents need to strike a balance between monitoring a sick child’s health and behaviour and being overprotective, as this can detrimentally affect a child’s social, cognitive and personal development and may encourage feelings of dependency and disability.
+
+#### Adolescence and formal operational thought
+
+During early adolescence (11–13 years), as individuals prepare for increased autonomy, independence and peers take on more credence than parents, much of life’s health-damaging behaviour commences (e.g. smoking).
+
+Illness concepts at this stage are condsidered as being at an abstract level, based on interactions between the person and their environment:
+
+-   **Physiological**: children now reach a stage of physiological understanding where most can define illness in terms of specific bodily organs or functions (e.g. germs cause white blood cells to become active to try and fight them), and begin to appreciate multiple physical causes (e.g. genes plus pollution plus behaviour).
+-   **Psychophysiological**: in later adolescence (from around 14 years) and in adulthood, many people grasp the idea that the mind and body interact, and understand or accept the role of stress, worry and so on, in the exacerbation and even the cause of illness. However, many people of all ages fail to achieve this level of understanding about illness and continue to use more cognitively simplistic explanations.
+
+#### Adulthood 17∕18+
+
+-   Early adulthood blends out of adolescence as the person forges their identity and assumes the roles and responsibility of adulthood—a time of consolidation.
+-   Adults are less likely than adolescents to adopt new health-risk behaviour and are generally more likely to engage in protective behaviour.
+-   Marriage was found to benefit health in men, that is they have lower illness scores than men living alone—whereas for women, such results are not comprehensive.
+-   While early adulthood is generally viewed positively, middle age has been identified as a period of doubts and anxiety, reappraisal and change.
+
+#### Ageing and health
+
+-   The United Nations Secretariat (2002) has predicted an increase in those aged over 60 from 10% of the world population to 20% by 2050
+-   Not all elderly people are ill or infirm, but even among the minority who go on without chronic health problems (physical and/or mental), episodes of acute illness are commonplace.
+-   Empirical research has shown that <abbr title="conscious thoughts and beliefs about yourself that allow you to feel you are distinct from others and that you exist as a separate person.">self-concept</abbr> is relatively stable through ageing and that changes in self-concept are not an inevitable part of the ageing process.
+
+#### Successful ageing
+
+1.   **Biomedical model**: based on physical and psychiatric functioning, diagnoses and functional ability.
+2.   **Broader biomedical model**: as above but includes social engagement and activity.
+3.   **Social functioning model**: based on the nature and frequency of social functioning and networks, social support accessed.
+4.   **Psychological resources model**: based on personal characteristics of optimism and self-efficacy and on sense of purpose, coping and problem-solving, self-confidence and self-worth.
+5.   **Lay model**: based on the above variables plus socioeconomic variables of income and ‘perceived social capital’, which included access to resources and facilities, environmental quality and problems (e.g. crime, traffic, pollution, places to walk, feelings of safety).
+
+-   Although each model could independently predict QoL, the strongest prediction was achieved by the lay model.
+-   Such findings highlight the importance of multidimensional models of health in that medical or psychological or social variables are all important, but a more holistic model is ‘better’.
+
+
 
