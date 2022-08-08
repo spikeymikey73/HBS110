@@ -4,23 +4,16 @@ title: 'Week 4: Addiction'
 
 ### What Is Addiciton?
 
-<div class="panel panel-primary">
-
-<div class="panel panel-primary">
-      <div class="panel-heading">
-        <h3 class="panel-title">**Terms**</h3>
-      </div>
-      <div class="panel-body">
-      <ul>
-        <li><abbr title="continued involvement with a substance or activity despite
-ongoing negative consequences.">Addiction</abbr></li>
-        <li><abbr title="The adaptive state of brain and body processes that occurs with regular addictive behaviour and results in withdrawal if the addictive behaviour stops.">Physiological Dependence</abbr></li>
-        <li><abbr title="A requirement for increased amounts of a drug in order to achieve the desired effect">Tolerance</abbr></li>
-        <li><abbr title=" a series of temporary physical and psychological symptoms that occurs when substance use stops.">Withdrawal</abbr></li>
-        <li><abbr title="Dependency of the mind on a substance or behaviour, which can lead to psychological withdrawal symptoms such as anxiety, irritability, or cravings.">Physiological Dependence</abbr></li>
-      </ul>
-      </div>
-    </div>
+<div class="alert alert-info" role="alert">
+  <h4>Terms</h4>
+  <ul>
+    <li><abbr title="continued involvement with a substance or activity despite ongoing negative consequences.">Addiction</abbr></li>
+    <li><abbr title="The adaptive state of brain and body processes that occurs with regular addictive behaviour and results in withdrawal if the addictive behaviour stops.">Physiological Dependence</abbr></li>
+    <li><abbr title="A requirement for increased amounts of a drug in order to achieve the desired effect">Tolerance</abbr></li>
+    <li><abbr title=" a series of temporary physical and psychological symptoms that occurs when substance use stops.">Withdrawal</abbr></li>
+    <li><abbr title="Dependency of the mind on a substance or behaviour, which can lead to psychological withdrawal symptoms such as anxiety, irritability, or cravings.">Physiological Dependence</abbr></li>
+  </ul>
+</div>
 
 #### Common Characteristics of Addiction
 
@@ -33,6 +26,4 @@ Although the mechanism is not well understood, all forms of addiction probably r
 -   **Negative consequences**: physical damage, legal trouble, financial problems, academic failure or family dissolution.
 -   **Denial**: inability to perceive that a behaviour is self-destructive
 -   **Inability to Abstain**
-
-<div class="well">...</div>
 
