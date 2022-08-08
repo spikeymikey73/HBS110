@@ -41,7 +41,7 @@ title: 'Week 4: Addiction'
     <p>Family members of an addicted person often suffer from <abbr title="A self-defeating relationship pattern in which a person helps (by protecting the addicted person from the consequences of their behaviour) or encourages addictive behaviour in another. They find it hard to set healthy boundaries and often live in a chaotic, crisis-oriented mode.">codependence</abbr></p>
 </div>
 
-### Addictive Behaviours {.tabset}
+### Addictive Behaviours {.tabset .tabset-pills}
 
 #### Gambling Disorder
 
@@ -55,6 +55,8 @@ Gambling Disorder is characterised by four distinct phases:
 -   **Hopeless**: The hope of quitting is abandoned, as with the belief that help is available.
 
 Gambling addiction has come to be viewed as a disorder of the dopamine neurotransmitter system coupled with decreased blood flow to a key section of the brain’s reward system. It is common for gamblers to show evidence of tolerance and withdrawal, with access to gambling increasing as a result of digital outlets for younger people.
+
+---
 
 #### Compulsive Buying Disorder
 
@@ -70,6 +72,8 @@ Characterised by excessive engagement in 'retail therapy' in an effort to feel b
 
 Technology allows people with this affliction exposed through online shopping (helping them avoid feeling shame or guilt), leaving their addiction unchecked. (Technology  allows them to continue behaviours from the privacy of their own homes.)
 
+---
+
 #### Exercise Addiction
 
 Warning signs of exercise addiction include:
@@ -84,6 +88,8 @@ Warning signs of exercise addiction include:
 -   missing class to exercise, or
 -   working out beyond the point of pain
 
+---
+
 #### Technology Addictions
 
 Internet addicts typically exhibit symptoms such as:
@@ -97,6 +103,7 @@ Internet addicts typically exhibit symptoms such as:
 -   Feeling moody or uncomfortable when offline
 -   They may use their behaviour to compensate for loneliness, marital or work problems, an unsatisfying social life, or financial problems.
 
+---
 
 #### Work Addiction
 
@@ -122,6 +129,8 @@ Work addicts may feel too busy to take care of their health, with evidence of ph
 
 Work addiction is most commonly experienced by people in their 40s and 50s, with males commonly more represented than females overall. This addiction is also most common with people whose FOO was dysfunctional.
 
+---
+
 #### Compulsive Sexual behaviour {-}
 
 People with compulsive sexual behaviour may participate in a wide range of sexual activities, including:
@@ -137,9 +146,10 @@ People with compulsive sexual behaviour may participate in a wide range of sexua
 
 Compulsive sexual behaviour can lead to loss of intimacy with loved ones, family disintegration, and other related problems.
 
-### What Is A Drug?
+---
 
-<div class="alert alert-light" role="alert">
+### What Is A Drug? {.tabset .tabset-pills}
+
 Drugs are substances other than food that are intended to affect the structure or function of the mind or the body through chemical action. The potential for addiction is great for even the most therapeutic substances, owing to their potent effects on the brain.
 
 Scientists divide drugs into six categories:
@@ -161,9 +171,8 @@ Scientists divide drugs into six categories:
       -   All are psychoactive
 -   Commercial.
       -   Perfumes, cosmetics, household cleaners, paints, glues, inks, dyes, and pesticides
-</div>
 
-### How Drugs Effect The Brain
+#### How Drugs Effect The Brain
 
 Pleasure or Reward is a powerful biological force for survival (eating, sleeping, sex), as well as leading us to want to repeat pleasurable experiences.
 
@@ -181,6 +190,8 @@ The use of almost all psychoactive drugs impacts this process by either:
 -   **suppressing** (the release of neurotransmitters into the synaptic gap is blocked), or
 -   **interfering** (the reuptake of neurotransmitters is blocked, allowing these chemicals to gather in the synaptic gap).
 
+---
+
 #### Routes of Drug Administration
 
 -   Oral Ingestion (Drugs taken orally may not reach the bloodstream for as long as 30 minutes)
@@ -189,7 +200,9 @@ The use of almost all psychoactive drugs impacts this process by either:
 -   Transdermal (nicotine patch)
 -   Suppositories (typically mixed with a waxy medium that melts at body temperature, releasing the drug into the bloodstream.)
 
-#### Drug Interactions
+---
+
+#### Drug Interactions {-}
 
 **Polydrug use**: taking several medications, vitamins, recreational drugs, or illegal drugs simultaneously. Alcohol in particular frequently has dangerous interactions with other drugs. 
 
@@ -199,9 +212,37 @@ Hazardous interactions include:
 -   **Antagonism**: Drugs work at the same receptor site, and one drug blocks the action of the other (by occupying the receptor site), altering the absorption rate and effect.
 -   **Inhibition**: The effects of one drug are eliminated by the presence of another drug at the receptor site.
       -   **Intolerance**:  drugs combine in the body to produce extremely uncomfortable reactions. The drug Antabuse (which is used to help alcoholics give up alcohol), works by producing this type of interaction. 
-      -   **Cross-Tolerance**: occurs when a person develops a physiological tolerance to one drug that also increases the body’s tolerance to other substances that act similarly on the body.
+      -   **Cross-Tolerance**: occurs when a person develops a physiological tolerance to one drug that also increases the body’s tolerance similarly behaving drugs.
+      
+---
 
-### Drug Misuse And Abuse
+### Drug Misuse And Abuse {.tabset .tabset-pills}
 
+<abbr title="The use of a drug for a purpose for which it was not intended.">Drug Misuse</abbr>
+
+<abbr title="The excessive use of any drug, be it illicit or prescription">Drug Abuse</abbr>
+
+#### Abuse of over-the-counter drugs
+
+The following are a few types of OTC drugs that are subject to misuse and abuse:
+
+-   **Caffeine pills and energy drinks**: Energy drinks, OTC caffeine pills, and pain relievers containing caffeine are commonly abused for the energy boost they provide. Caffeine in large doses can result in tremors/shaking, restlessness and edginess, insomnia, dehydration, panic attacks, heart irregularities, and other symptoms.
+-   **Cold medicines (cough syrups and tablets)**: Of particular concern, one ingredient that is present in many cough and cold medicines is dextromethorphan (DXM). As many as 5 percent of high school seniors report taking drugs containing DXM to get high (Johnston, O’Malley, Miech, Bachman & Schulenberg, 2015). Large doses of products containing DXM can cause hallucinations, loss of motor control, and ‘out-of-body’ (dissociative) sensations. In combination with alcohol or other drugs, large doses of DXM can be deadly.
+-   **Diet pills**: Although diet pills are intended to help people lose weight, some teens use them as a way of getting high. Diet pills often contain a stimulant such as caffeine or an herbal ingredient that is claimed to pro-mote weight loss, such as Hoodia gordonii. Although they can sometimes cause serious side effects, many diet pills are marketed as dietary supplements and so are regulated by the Food and Drug Administration (FDA) as food, not as drugs. This means that their manufacturers may make unsubstantiated claims of effectiveness or can use untested and unsafe ingredients.
+-   **Sleep aids**: Using sleep aids in excess may be harmful, as they can cause problems with the sleep cycle, weaken areas of the body, or induce narcolepsy (a condition of excessive, intrusive sleepiness). Continued use can lead to tolerance and dependence.C
+
+---
+
+#### Non-medical use or abuse of prescription drugs
+
+asdf
+
+---
+
+#### Use and abuse of illicit drugs {-}
+
+asdf
+
+---
 
 
