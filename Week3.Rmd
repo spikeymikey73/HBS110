@@ -1,8 +1,5 @@
 ---
-title: 'Week 1: xyz'
+title: 'Week 3: Stress'
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
